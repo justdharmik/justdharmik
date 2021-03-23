@@ -1,4 +1,4 @@
-- 👋 Hi, <h4>I’m Dharmik Babariya</h4>.
+- 👋 Hi, **I’m Dharmik Babariya**.
 - 👀 I’m interested in learning different programming languages and develop industry level skills.
 - 🌱 I’m currently pursuing Engineering in Electronics and Telecommunications.
 - 💞️ I’m looking to contirbute towards Open-Source Technologies as they are fun to work with.
