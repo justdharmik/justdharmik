@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Dharmik Babariya.
+- 👋 Hi, <h4>I’m Dharmik Babariya</h4>.
 - 👀 I’m interested in learning different programming languages and develop industry level skills.
 - 🌱 I’m currently pursuing Engineering in Electronics and Telecommunications.
 - 💞️ I’m looking to contirbute towards Open-Source Technologies as they are fun to work with.
-
-
+- 🤓 Find me on different platforms > <br>
+  [![Linkedin](https://img.shields.io/badge/-DharmikBabariya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharmikbabariya/)
+  [![Instagram](https://img.shields.io/badge/-dharmik_babariya-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dharmik_babariya)
 
 
 <!---
